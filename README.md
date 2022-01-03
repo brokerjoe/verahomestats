@@ -1,4 +1,5 @@
-# verahomestats
+# Vera Home Stats
+
 Exports the Vera stats into a Prometheus compatible format.
 
 This was a very quick hack to get the data from the vera home device into prometheus.
